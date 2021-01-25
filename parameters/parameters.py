@@ -23,11 +23,11 @@ osmnxparameters = {'car30': {'network_type':'drive', 'custom_filter':'["maxspeed
                    'carall': {'network_type':'drive', 'custom_filter': None, 'retain_all': True},
                    'bike_cyclewaytrack': {'network_type':'bike', 'custom_filter':'["cycleway"~"track"]', 'retain_all': True},
                    'bike_highwaycycleway': {'network_type':'bike', 'custom_filter':'["highway"~"cycleway"]', 'retain_all': True},
-                   'bike_bicycledesignated': {'network_type':'bike', 'custom_filter':'["bicycle"~"designated"]', 'retain_all': True},
                    'bike_designatedpath': {'network_type':'all', 'custom_filter':'["highway"~"path"]["bicycle"~"designated"]', 'retain_all': True},
                    'bike_cyclewayrighttrack': {'network_type':'bike', 'custom_filter':'["cycleway:right"~"track"]', 'retain_all': True},
                    'bike_cyclewaylefttrack': {'network_type':'bike', 'custom_filter':'["cycleway:left"~"track"]', 'retain_all': True},
                    'bike_cyclestreet': {'network_type':'bike', 'custom_filter':'["cyclestreet"]', 'retain_all': True},
+                   'bike_bicycleroad': {'network_type':'bike', 'custom_filter':'["bicycle_road"]', 'retain_all': True},
                    'bike_livingstreet': {'network_type':'bike', 'custom_filter':'["highway"~"living_street"]', 'retain_all': True}
                   }  
 # https://wiki.openstreetmap.org/wiki/Key:cycleway#Cycle_tracks
