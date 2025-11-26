@@ -7,4 +7,4 @@ The idea of this visualization is to identify the most distinct environments for
 
 The sketches are on purpose simplified caricatures: obviously there is also some protected bicycle infrastructure in the US, obviously there are also low speed limit areas in Copenhagen, obviously there are not many superblocks yet in Barcelona, etc., but the goal is to show the dominant focuses and how these environments feel *in general* from a cycling perspective.
 
-Let me know if I missed something or got anything wrong: michael.szell@gmail.com
+Let me know if I missed something or got anything wrong: michael@szell.net
